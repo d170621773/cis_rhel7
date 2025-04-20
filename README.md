@@ -106,3 +106,5 @@ While beaker testing using docker has been created, vagrant testing frame work h
 TODO: CIS 1.1.0 is out.  Make code adjustments accordingly
 
 TODO: Write Vagrant beaker testing and ensure that all rules can be tested in an emulated environment
+
+# test
